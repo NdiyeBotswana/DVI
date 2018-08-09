@@ -1,0 +1,49 @@
+#dropdown-menu-2btn-5 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-5 .nav .link,
+#dropdown-menu-2btn-5 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-5 .navbar,
+#dropdown-menu-2btn-5 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-5 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-5 .dropdown-menu a:hover,
+#dropdown-menu-2btn-5 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-5 .navbar-toggler {
+  color: #000000;
+}
+#msg-box5-7 .mbr-section-title {
+  color: #fff8e0;
+}
+#msg-box5-7 .lead P {
+  color: #fff8e0;
+}
+#msg-box4-a .mbr-section-title {
+  color: #fff8e0;
+}
+#dropdown-menu-2btn-8 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-8 .nav .link,
+#dropdown-menu-2btn-8 .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-2btn-8 .navbar,
+#dropdown-menu-2btn-8 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-8 .dropdown-menu a:hover,
+#dropdown-menu-2btn-8 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-8 .navbar-toggler {
+  color: #000000;
+}
